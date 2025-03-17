@@ -1,6 +1,6 @@
 {
   "name": "capacitor-check-mock-location",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "This plugin helps to check mock gps location or not from android device for capacitor cross platform developers",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
